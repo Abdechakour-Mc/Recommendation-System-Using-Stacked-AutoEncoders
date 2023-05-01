@@ -1,4 +1,0 @@
-#Sun Apr 30 15:06:10 WAT 2023
-base.0=C\:\\Users\\VENUS\\Desktop\\2 CS IASD\\S2\\DL\\mini projet\\RecSys_with_AutoEnc\\FlutterApp\\rec_sys_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
