@@ -46,3 +46,44 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Miscellaneous
+*.iml
+*.class
+*.log
+/.idea
+/.vscode
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.pub/
+/build/
+
+# Android specific
+**/android/.gradle/
+**/android/build/
+**/android/gradle/
+**/android/gradlew
+**/android/local.properties
+
+# iOS specific
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/.flutter-plugins
+**/ios/.flutter-plugins-dependencies
+**/ios/Flutter/
+**/ios/Flutter/ephemeral
+**/ios/Flutter/flutter_assets/
+**/ios/Runner.xcworkspace/
+
+# Generated files
+**/lib/generated/
+**/lib/.generated/
+**/lib/.generated_plugin_registrant.dart
+**/lib/.generated_plugin_registrant.m
+**/lib/.generated_plugin_registrant.cpp
+
+# Flutter SDK
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
